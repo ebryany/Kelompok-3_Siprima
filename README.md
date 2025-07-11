@@ -215,11 +215,59 @@ Users (1) -----> (N) Notifications
 
 Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
-## 👨‍💻 Pengembang
+## 👥 Tim Pengembang
 
 **Kelompok 3 Pemrograman Visual**
-- GitHub: [@ebry](https://github.com/ebryany)
-- Web: febryanidh.vercel.app
+
+| No | Nama Anggota | Role / Kontribusi | GitHub | Spesialisasi |
+|----|--------------|-------------------|--------|--------------|
+| 1  | **Febryanus Tambing** | Lead Developer, Backend  | [@ebryany](https://github.com/ebryany) | 🏗️ Arsitektur Program, Code Development, Backend Implementation |
+| 2  | **Alexzius Manan** | UI/UX Designer | - | 🎨 User Interface Design, User Experience |
+| 3  | **Putri Rembulan** | UI/UX Designer | - | 🎨 Visual Design, Interface Layout |
+| 4  | **Auliawati** | UI/UX Designer | - | 🎨 Graphic Design, Visual Elements |
+| 5  | **Isma** | UI/UX Designer | - | 🎨 Design System, User Interface |
+
+### 📊 Distribusi Kontribusi
+
+```
+🔧 Backend Development & Architecture: 60%
+  └── Febryanus Tambing
+
+🎨 UI/UX Design & Frontend: 40%
+  ├── Alexzius Manan (10%)
+  ├── Putri Rembulan (10%)
+  ├── Auliawati (10%)
+  └── Isma (10%)
+```
+
+### 🎯 Detail Kontribusi
+
+#### 🏗️ **Lead Developer - Febryanus Tambing**
+- ✅ Project Architecture & Structure
+- ✅ Database Design & Implementation
+- ✅ Backend Logic & API Development
+- ✅ Authentication & Security System
+- ✅ Custom UI Components (Java Swing)
+- ✅ Real-time Features & Event System
+- ✅ Documentation & Code Quality
+- ✅ Testing & Deployment
+
+#### 🎨 **UI/UX Design Team**
+- **Alexzius Manan**: Interface conceptualization & wireframing
+- **Putri Rembulan**: Visual design & layout composition
+- **Auliawati**: Graphic elements & icon design
+- **Isma**: Design system & user experience flow
+
+### 🌟 Acknowledgments
+
+Terima kasih kepada seluruh anggota **Kelompok 3** yang telah berkontribusi dalam pengembangan SIPRIMA. Setiap anggota memiliki peran penting dalam kesuksesan project ini.
+
+---
+
+**Contact Lead Developer:**
+- GitHub: [@ebryany](https://github.com/ebryany)
+- Web: [febryanidh.vercel.app](https://febryanidh.vercel.app)
+- Email: ebryany6@gmail.com
 
 ## 🙏 Acknowledgments
 
